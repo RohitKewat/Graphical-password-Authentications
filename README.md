@@ -1,1 +1,1 @@
-# Graphical-password-Authentications
+# Pictorial-password-Authentications
